@@ -1,0 +1,17 @@
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.Presenters\bin\Debug\net6.0\LatinoNet.Presenters.deps.json
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.Presenters\bin\Debug\net6.0\LatinoNet.Presenters.dll
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.Presenters\bin\Debug\net6.0\LatinoNet.Presenters.pdb
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.Presenters\bin\Debug\net6.0\LatinoNet.DTOs.dll
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.Presenters\bin\Debug\net6.0\LatinoNet.UserCasesPorts.dll
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.Presenters\bin\Debug\net6.0\LatinoNet.UserCasesPorts.pdb
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.Presenters\bin\Debug\net6.0\LatinoNet.DTOs.pdb
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.Presenters\obj\Debug\net6.0\LatinoNet.Presenters.csproj.AssemblyReference.cache
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.Presenters\obj\Debug\net6.0\LatinoNet.Presenters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.Presenters\obj\Debug\net6.0\LatinoNet.Presenters.AssemblyInfoInputs.cache
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.Presenters\obj\Debug\net6.0\LatinoNet.Presenters.AssemblyInfo.cs
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.Presenters\obj\Debug\net6.0\LatinoNet.Presenters.csproj.CoreCompileInputs.cache
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.Presenters\obj\Debug\net6.0\LatinoNet.Presenters.csproj.CopyComplete
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.Presenters\obj\Debug\net6.0\LatinoNet.Presenters.dll
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.Presenters\obj\Debug\net6.0\refint\LatinoNet.Presenters.dll
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.Presenters\obj\Debug\net6.0\LatinoNet.Presenters.pdb
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.Presenters\obj\Debug\net6.0\ref\LatinoNet.Presenters.dll

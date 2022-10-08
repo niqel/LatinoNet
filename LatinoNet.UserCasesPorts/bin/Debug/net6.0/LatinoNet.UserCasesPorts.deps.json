@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LatinoNet.UserCasesPorts/1.0.0": {
+        "dependencies": {
+          "LatinoNet.DTOs": "1.0.0"
+        },
+        "runtime": {
+          "LatinoNet.UserCasesPorts.dll": {}
+        }
+      },
+      "LatinoNet.DTOs/1.0.0": {
+        "runtime": {
+          "LatinoNet.DTOs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LatinoNet.UserCasesPorts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LatinoNet.DTOs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

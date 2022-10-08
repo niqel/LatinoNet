@@ -1,0 +1,12 @@
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.Entities\bin\Debug\net6.0\LatinoNet.Entities.deps.json
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.Entities\bin\Debug\net6.0\LatinoNet.Entities.dll
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.Entities\bin\Debug\net6.0\LatinoNet.Entities.pdb
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.Entities\obj\Debug\net6.0\LatinoNet.Entities.csproj.AssemblyReference.cache
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.Entities\obj\Debug\net6.0\LatinoNet.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.Entities\obj\Debug\net6.0\LatinoNet.Entities.AssemblyInfoInputs.cache
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.Entities\obj\Debug\net6.0\LatinoNet.Entities.AssemblyInfo.cs
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.Entities\obj\Debug\net6.0\LatinoNet.Entities.csproj.CoreCompileInputs.cache
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.Entities\obj\Debug\net6.0\LatinoNet.Entities.dll
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.Entities\obj\Debug\net6.0\refint\LatinoNet.Entities.dll
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.Entities\obj\Debug\net6.0\LatinoNet.Entities.pdb
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.Entities\obj\Debug\net6.0\ref\LatinoNet.Entities.dll

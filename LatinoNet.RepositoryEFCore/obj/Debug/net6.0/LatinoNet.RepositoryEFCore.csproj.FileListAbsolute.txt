@@ -1,0 +1,17 @@
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.RepositoryEFCore\bin\Debug\net6.0\LatinoNet.RepositoryEFCore.deps.json
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.RepositoryEFCore\bin\Debug\net6.0\LatinoNet.RepositoryEFCore.runtimeconfig.json
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.RepositoryEFCore\bin\Debug\net6.0\LatinoNet.RepositoryEFCore.dll
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.RepositoryEFCore\bin\Debug\net6.0\LatinoNet.RepositoryEFCore.pdb
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.RepositoryEFCore\bin\Debug\net6.0\LatinoNet.Entities.dll
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.RepositoryEFCore\bin\Debug\net6.0\LatinoNet.Entities.pdb
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.RepositoryEFCore\obj\Debug\net6.0\LatinoNet.RepositoryEFCore.csproj.AssemblyReference.cache
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.RepositoryEFCore\obj\Debug\net6.0\LatinoNet.RepositoryEFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.RepositoryEFCore\obj\Debug\net6.0\LatinoNet.RepositoryEFCore.AssemblyInfoInputs.cache
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.RepositoryEFCore\obj\Debug\net6.0\LatinoNet.RepositoryEFCore.AssemblyInfo.cs
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.RepositoryEFCore\obj\Debug\net6.0\LatinoNet.RepositoryEFCore.csproj.CoreCompileInputs.cache
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.RepositoryEFCore\obj\Debug\net6.0\LatinoNet.RepositoryEFCore.csproj.CopyComplete
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.RepositoryEFCore\obj\Debug\net6.0\LatinoNet.RepositoryEFCore.dll
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.RepositoryEFCore\obj\Debug\net6.0\refint\LatinoNet.RepositoryEFCore.dll
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.RepositoryEFCore\obj\Debug\net6.0\LatinoNet.RepositoryEFCore.pdb
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.RepositoryEFCore\obj\Debug\net6.0\LatinoNet.RepositoryEFCore.genruntimeconfig.cache
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.RepositoryEFCore\obj\Debug\net6.0\ref\LatinoNet.RepositoryEFCore.dll

@@ -1,0 +1,15 @@
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.UserCasesPorts\bin\Debug\net6.0\LatinoNet.UserCasesPorts.deps.json
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.UserCasesPorts\bin\Debug\net6.0\LatinoNet.UserCasesPorts.dll
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.UserCasesPorts\bin\Debug\net6.0\LatinoNet.UserCasesPorts.pdb
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.UserCasesPorts\bin\Debug\net6.0\LatinoNet.DTOs.dll
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.UserCasesPorts\bin\Debug\net6.0\LatinoNet.DTOs.pdb
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.UserCasesPorts\obj\Debug\net6.0\LatinoNet.UserCasesPorts.csproj.AssemblyReference.cache
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.UserCasesPorts\obj\Debug\net6.0\LatinoNet.UserCasesPorts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.UserCasesPorts\obj\Debug\net6.0\LatinoNet.UserCasesPorts.AssemblyInfoInputs.cache
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.UserCasesPorts\obj\Debug\net6.0\LatinoNet.UserCasesPorts.AssemblyInfo.cs
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.UserCasesPorts\obj\Debug\net6.0\LatinoNet.UserCasesPorts.csproj.CoreCompileInputs.cache
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.UserCasesPorts\obj\Debug\net6.0\LatinoNet.UserCasesPorts.csproj.CopyComplete
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.UserCasesPorts\obj\Debug\net6.0\LatinoNet.UserCasesPorts.dll
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.UserCasesPorts\obj\Debug\net6.0\refint\LatinoNet.UserCasesPorts.dll
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.UserCasesPorts\obj\Debug\net6.0\LatinoNet.UserCasesPorts.pdb
+C:\Users\niqel\source\repos\LatinoNet\LatinoNet.UserCasesPorts\obj\Debug\net6.0\ref\LatinoNet.UserCasesPorts.dll

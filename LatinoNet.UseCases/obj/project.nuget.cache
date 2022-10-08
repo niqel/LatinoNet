@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mb3U6LnYzqf1v2EbutgL+Glbp9RqJmKoxGSBnqNzjuLQCzg6y+jYlJoH5Fz+FnxBghs87iqC5HwZGFuG2xym3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\niqel\\source\\repos\\LatinoNet\\LatinoNet.UseCases\\LatinoNet.UseCases.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\niqel\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
